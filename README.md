@@ -4,7 +4,9 @@ Awesome Online Tools
 some Online Tools
 We collecting awesome tools useful for developers and designers.
 
-[toc]
+## Index
+- [Text Editors](#text-editors)
+- [Photo Editors](#photo-editors)
 
 ## Text Editors
 
